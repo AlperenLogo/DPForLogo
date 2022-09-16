@@ -40,6 +40,26 @@ public class LongTimeProcess : ICloneable
 	{
 		return this.MemberwiseClone();
 	}
+	public object Clone(bool isDeep)
+	{
+		return isDeep ? deepClone() : Clone();
+	}
+
+	private object deepClone()
+	{
+		//serialize this 
+		//desaerialize this
+		return MemberwiseClone();
+	}
+}
+
+public class Address
+{
+	public string City { get; set; }
+}
+public class Person
+{
+	public Address Address { get; set; }
 }
 
 

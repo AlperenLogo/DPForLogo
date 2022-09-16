@@ -20,6 +20,17 @@
 CultureMap map = new CultureMap();
 map.VisitPoints.ForEach(vp => Console.WriteLine(vp.Info));
 
+
+
+
+
+
+
+
+
+
+
+
 ReligionMap religionMap = new ReligionMap();
 var visitPoints = religionMap.VisitPoints;
 Console.ReadLine();
@@ -89,6 +100,7 @@ public class CultureMap : MapBase
 {
     protected override void addVisitPoint()
     {
+        //db'den geliyor....
         var topkapi = new Museum { Info = "Topkapı Sarayı" };
         var haldunTaner = new Theatre { Info = "Kadıköy haldun taner sahnesi..." };
 

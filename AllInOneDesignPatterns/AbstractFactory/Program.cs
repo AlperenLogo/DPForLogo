@@ -7,6 +7,10 @@
             /*
              * Problem:
              * Aynı tipten türeyen A,B,C nesneleriniz var. Her bir nesne de kendi içinde A1, A2 ve A3 gibi varyantlara sahip.
+             * Yani her varyant 1,2,3 biçiminde gerçekleşiyor
+             * 
+             * Android Ios platformlarınız var. Her bir platformda Input, Button, Label gibi bileşenleriniz var. 
+             * Dolayısıyla Android -> Android Label, Android Input ve Android Button... 
              * 
              * A2 B2 C2
              * A1 B1 C1

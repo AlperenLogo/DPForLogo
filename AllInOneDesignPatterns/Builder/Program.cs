@@ -20,9 +20,10 @@ PerformanceReportBuilder performanceReport = new PerformanceReportBuilder();
 ReportCreator reportCreator = new ReportCreator();
 reportCreator.Create(performanceReport);
 reportCreator.Show();
+var report = reportCreator.GetReport();
 
-//Aşağıdaki enum'lar işimizi kolaylaştırmak için PATTERN İLE ALAKASI YOK!
 
+//Aşağıdaki enum'lar işimizi kolaylaştırmak için PATTERN İLE ALAKASI YOK
 
 
 
@@ -132,6 +133,10 @@ public class ReportCreator
         reportBuilder.CreateOwners();
     }
 
+    public Report GetReport()
+    {
+        return reportBuilder.Report;
+    }
     public void Show()
     {
         reportBuilder.Report.Demo();
