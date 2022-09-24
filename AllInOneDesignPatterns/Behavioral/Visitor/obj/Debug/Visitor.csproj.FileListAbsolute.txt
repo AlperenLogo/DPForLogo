@@ -1,0 +1,6 @@
+E:\YKB\SOLIDDP\OOP\Visitor\bin\Debug\Visitor.exe.config
+E:\YKB\SOLIDDP\OOP\Visitor\bin\Debug\Visitor.exe
+E:\YKB\SOLIDDP\OOP\Visitor\bin\Debug\Visitor.pdb
+E:\YKB\SOLIDDP\OOP\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+E:\YKB\SOLIDDP\OOP\Visitor\obj\Debug\Visitor.exe
+E:\YKB\SOLIDDP\OOP\Visitor\obj\Debug\Visitor.pdb
