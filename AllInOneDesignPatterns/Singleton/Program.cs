@@ -11,7 +11,7 @@ Console.WriteLine(helper.StateValue);
 var anotherHelper = SqlDbHelper.Create();
 Console.WriteLine(anotherHelper.StateValue);
 
-public class SqlDbHelper
+public class SqlDbHelper : IDbHelper
 {
 	private static SqlDbHelper instance;
 	public static SqlDbHelper Create()
@@ -31,3 +31,12 @@ public class SqlDbHelper
 }
 
 
+public interface IDbHelper
+{
+	int StateValue { get; set; }
+}
+
+//public static class StaticDbHelper : IDbHelper
+//{
+//	public int StateValue { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+//}
