@@ -29,17 +29,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Façade", "Structural\Façade\Façade.csproj", "{1BACA280-7D8E-41D6-9EE8-3F719F060F09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{A77F7C89-289D-40C4-AD10-92FAB96A00E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Flyweight\Flyweight.csproj", "{A77F7C89-289D-40C4-AD10-92FAB96A00E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Structural\Proxy\Proxy.csproj", "{11C9B38D-DF6D-4F2B-8027-671AA9E25EF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Structural\Proxy\Proxy.csproj", "{11C9B38D-DF6D-4F2B-8027-671AA9E25EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "Behavioral\ChainOfResponsibility\ChainOfResponsibility.csproj", "{209995FC-2F87-46B2-9491-C900E173D18C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "Behavioral\ChainOfResponsibility\ChainOfResponsibility.csproj", "{209995FC-2F87-46B2-9491-C900E173D18C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Behavioral\Command\Command.csproj", "{C0551417-9833-4839-BD87-F2EFA65D90FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Behavioral\Command\Command.csproj", "{C0551417-9833-4839-BD87-F2EFA65D90FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Behavioral\Iterator\Iterator.csproj", "{AB468D8A-BF92-4D5A-8116-175C370B0EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Behavioral\Iterator\Iterator.csproj", "{AB468D8A-BF92-4D5A-8116-175C370B0EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Behavioral\Strategy\Strategy.csproj", "{CFB9B689-E816-4D25-B309-AC9E98F1FA70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Behavioral\Strategy\Strategy.csproj", "{CFB9B689-E816-4D25-B309-AC9E98F1FA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Behavioral\Observer\Observer.csproj", "{AA39E935-718F-4D2E-BA13-DC94E10F3A98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{CFB9B689-E816-4D25-B309-AC9E98F1FA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB9B689-E816-4D25-B309-AC9E98F1FA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB9B689-E816-4D25-B309-AC9E98F1FA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA39E935-718F-4D2E-BA13-DC94E10F3A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA39E935-718F-4D2E-BA13-DC94E10F3A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA39E935-718F-4D2E-BA13-DC94E10F3A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA39E935-718F-4D2E-BA13-DC94E10F3A98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +138,7 @@ Global
 		{C0551417-9833-4839-BD87-F2EFA65D90FF} = {BFE0CF29-F420-4113-B11A-4DACCDA4F6FF}
 		{AB468D8A-BF92-4D5A-8116-175C370B0EAD} = {BFE0CF29-F420-4113-B11A-4DACCDA4F6FF}
 		{CFB9B689-E816-4D25-B309-AC9E98F1FA70} = {BFE0CF29-F420-4113-B11A-4DACCDA4F6FF}
+		{AA39E935-718F-4D2E-BA13-DC94E10F3A98} = {BFE0CF29-F420-4113-B11A-4DACCDA4F6FF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {73030F28-A233-4134-A519-EBFE30977698}
