@@ -1,0 +1,14 @@
+C:\Users\turka\source\repos\Kurumsal\NetLog\OOPPrinciplesAndPattern\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\turka\source\repos\Kurumsal\NetLog\OOPPrinciplesAndPattern\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\turka\source\repos\Kurumsal\NetLog\OOPPrinciplesAndPattern\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\turka\source\repos\Kurumsal\NetLog\OOPPrinciplesAndPattern\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\NetLog\OOPPrinciplesAndPattern\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\turka\source\repos\Kurumsal\NetLog\OOPPrinciplesAndPattern\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Interpreter\obj\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Interpreter\obj\Debug\Interpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Interpreter\obj\Debug\Interpreter.pdb
